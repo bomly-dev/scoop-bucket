@@ -1,0 +1,22 @@
+{
+    "version": "0.14.17",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/bomly-dev/bomly-cli/releases/download/v0.14.17/bomly_0.14.17_windows_amd64.zip",
+            "bin": [
+                "bomly.exe"
+            ],
+            "hash": "cdcf6ed9d8a75874e4222ba7d22c6031a305a6dfbb1ec60010a5e1167d196809"
+        },
+        "arm64": {
+            "url": "https://github.com/bomly-dev/bomly-cli/releases/download/v0.14.17/bomly_0.14.17_windows_arm64.zip",
+            "bin": [
+                "bomly.exe"
+            ],
+            "hash": "7407763d30609210e5b63a5de99ab659aac27c05646e2d7c4ca678869bf5e381"
+        }
+    },
+    "homepage": "https://bomly.dev/cli",
+    "license": "Apache-2.0",
+    "description": "Free, open-source CLI for dependency intelligence and SBOM analysis."
+}
