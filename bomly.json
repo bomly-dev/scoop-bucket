@@ -1,19 +1,19 @@
 {
-    "version": "0.25.0",
+    "version": "0.27.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bomly-dev/bomly-cli/releases/download/v0.25.0/bomly_0.25.0_windows_amd64.zip",
+            "url": "https://github.com/bomly-dev/bomly-cli/releases/download/v0.27.0/bomly_0.27.0_windows_amd64.zip",
             "bin": [
                 "bomly.exe"
             ],
-            "hash": "abd7ad2eefe6e5a4417e1c91aa9b4e9592d5de992170eab4577d64984e33610a"
+            "hash": "e74154c9a1e78bd6b716cdd5603192debaa85072eaee10c4398bbb1aecf45e2b"
         },
         "arm64": {
-            "url": "https://github.com/bomly-dev/bomly-cli/releases/download/v0.25.0/bomly_0.25.0_windows_arm64.zip",
+            "url": "https://github.com/bomly-dev/bomly-cli/releases/download/v0.27.0/bomly_0.27.0_windows_arm64.zip",
             "bin": [
                 "bomly.exe"
             ],
-            "hash": "791d55bd942629781bc02a908817e6a0fa890c69869c24be2446eac33d3d3a79"
+            "hash": "0eec1a4221ee13944706cfbe77e23d1219c3d5e5a48796180af4539219e70567"
         }
     },
     "homepage": "https://bomly.dev/cli",
